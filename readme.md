@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=infomanc3r&fontSize=90&animation=fadeIn&fontAlignY=38&desc=James%20Wyatt%20Ray%20III's%20Github%20Page&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=300&section=header&text=infomanc3r&fontSize=90&animation=fadeIn&fontAlignY=38&fontColor=FFFFFF&desc=James%20Wyatt%20Ray%20III's%20Github%20Page&descAlignY=51&descAlign=62)
 
 <h2>🧙&nbsp;About Me&nbsp;🐺</h2>
 I am guided by a relentless curiosity. <br><br>
