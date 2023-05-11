@@ -5,6 +5,7 @@ I am guided by a relentless curiosity. <br><br>
 I live in the Lone Star State with two dogs.<br><br>
 I enjoy playing all kinds of card games. Magic is my favorite. I mostly play Esper colors - primary blue and secondary black/white. <br><br>
 I also enjoy playing video games - grand strategy and 4X games like Total War, Stellaris, and Civ are my favorites, but I play games of all kinds. <br><br>
+You can contact me at:&nbsp;&nbsp;<a href="mailto:infomanc3r@proton.me">infomanc3r@proton.me</a>
 
 <h2>🏋&nbsp;Current Goals&nbsp;🌱</h2>
 Currently I am upskilling nearly every day with the goal of becoming a backend software engineer that designs, builds, and maintains serverside applications as well as cloud services. I began this pursuit in full in late 2022 when I decided to join the BloomTech Enterprise Backend Developer program to add some structure to the learning I was already doing on my own. I previously became fascinated by the vast capabilities of Amazon Web Services and started teaching myself as much as I could before ultimately deciding to join the program and enhance my learning capacity. <br><br>
