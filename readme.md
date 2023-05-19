@@ -22,7 +22,7 @@ With previous experience in object-oriented programming acquired during my time 
 <img src="https://files.rubixdev.de/logos/unity.svg" alt="unity" width="65" height="65"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="75" height="75"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="75" height="75"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="65" height="65"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="65" height="65"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://thumb.tildacdn.com/tild3132-6661-4934-b937-666566303739/-/resize/126x/-/format/webp/on_orange.png" alt="flipperzero" width="84" height="62"/>
 
