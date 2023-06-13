@@ -5,7 +5,7 @@ I am guided by a relentless curiosity. <br><br>
 I live in the Lone Star State with two dogs.<br><br>
 I enjoy playing all kinds of card games. Magic is my favorite. I mostly play Esper colors - primary blue and secondary black/white. <br><br>
 I also enjoy playing video games - grand strategy and 4X games like Total War, Stellaris, and Civ are my favorites, but I play games of all kinds. <br><br>
-You can contact me at:&nbsp;&nbsp;<a href="mailto:infomanc3r@proton.me">infomanc3r@proton.me</a>
+You can contact me at:&nbsp;&nbsp;<a href="mailto:james@infomanc3r.com">james@infomanc3r.com</a>
 
 <h2>🏋&nbsp;Current Goals&nbsp;🌱</h2>
 Currently I am learning TypeScript and Rust, as well as mastering all of the topics on the <a href="https://roadmap.sh/backend">Backend Developer Roadmap</a>. One roadmap topic I am learning about now is mitigation strategies in cloud design.<br><br>
