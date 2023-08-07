@@ -8,7 +8,7 @@ I also enjoy playing video games - grand strategy and 4X games like Total War, S
 You can contact me at:&nbsp;&nbsp;<a href="mailto:james@infomanc3r.com">james@infomanc3r.com</a>
 
 <h2>🏋&nbsp;Current Goals&nbsp;🌱</h2>
-Currently I am learning TypeScript and Rust.<br><br>
+Currently I am learning TypeScript and Elixir.<br><br>
 I am upskilling nearly every day with the goal of becoming a backend software engineer that designs, builds, and maintains serverside applications as well as cloud services. I began this pursuit in full when I decided to join the BloomTech Enterprise Backend Developer program to add some structure to the learning I was already doing on my own and augment my self-taught abilities. I previously became fascinated by the vast capabilities of Amazon Web Services and started teaching myself as much as I could before ultimately deciding to join the program. <br><br>
 
 With previous experience in object-oriented programming acquired during my time as a research assistant at the University of Texas Virtual Reality Lab and as a startup developer working on an educational app for the Vive and Oculus VR devices, I felt more than comfortable returning to the fray after a career hiatus during which I paid the bills as a professional poker player - an endeavor that required an incredible amount of discipline and ability, both teaching and sharpening a multitude of skills that transfer remarkably well to the professional world.
