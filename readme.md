@@ -26,7 +26,9 @@ With previous experience in object-oriented programming acquired during my time 
 <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="65" height="65"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="65" height="65"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.flipperzero.one/" target="_blank"><img src="https://thumb.tildacdn.com/tild3132-6661-4934-b937-666566303739/-/resize/126x/-/format/webp/on_orange.png" alt="flipperzero" width="84" height="62"/>
+<a href="https://www.flipperzero.one/" target="_blank"><img src="https://thumb.tildacdn.com/tild3132-6661-4934-b937-666566303739/-/resize/126x/-/format/webp/on_orange.png" alt="flipperzero" width="84" height="62"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://elixir-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" alt="elixir" width="75" height="75"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.phoenixframework.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg" alt="phoenix" width="65" height="65"/>
 
 
 <!--https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg -->
