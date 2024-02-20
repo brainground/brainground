@@ -27,7 +27,8 @@ I am upskilling nearly every day with the goal of becoming a backend software en
 <a href="https://www.flipperzero.one/" target="_blank"><img src="https://thumb.tildacdn.com/tild3132-6661-4934-b937-666566303739/-/resize/126x/-/format/webp/on_orange.png" alt="flipperzero" width="84" height="62"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://elixir-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" alt="elixir" width="75" height="75"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.phoenixframework.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg" alt="phoenix" width="75" height="75"/></a>
-<a href="https://www.midjourney.com/home" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Midjourney_Emblem.svg/1024px-Midjourney_Emblem.svg.png" alt="midjourney" width="85" height="85"/>
+<a href="https://www.midjourney.com/home" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Midjourney_Emblem.svg/1024px-Midjourney_Emblem.svg.png" alt="midjourney" width="75" height="75"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/></a>
 
 
 <!--https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg -->
