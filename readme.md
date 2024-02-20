@@ -17,7 +17,7 @@ I am upskilling nearly every day with the goal of becoming a backend software en
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt = "AWS" width ="75" height="75"/>&nbsp;&nbsp;&nbsp;           
 <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="60" height="60"/>  &nbsp;&nbsp;
 <a href="https://www.spring.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="75" height="75"/>&nbsp;&nbsp;
-<a href="https://www.gradle.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="gradle" width="75" height="75"/>&nbsp;&nbsp;
+<a href="https://www.gradle.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" alt="gradle" width="75" height="75"/>&nbsp;&nbsp;
 <a href="http://mockito.org/" target="_blank"><img src="https://github.com/mockito/mockito.github.io/raw/master/img/logo%402x.png" alt="mockito" width="140" height="70"/>&nbsp;&nbsp;
 <a href="https://www.unity.com/" target="_blank"><img src="https://files.rubixdev.de/logos/unity.svg" alt="unity" width="65" height="65"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="75" height="75"/>&nbsp;&nbsp;&nbsp;&nbsp;
